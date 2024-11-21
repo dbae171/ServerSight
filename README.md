@@ -1,4 +1,4 @@
-# ServerSight
+# 🧑‍🍳 ServerSight
 ## Server Management System
 ServerSight serves as a tool that helps managers keep trach of their server performance, to further help them
 make adjustments in their rotation and make managing easier.
